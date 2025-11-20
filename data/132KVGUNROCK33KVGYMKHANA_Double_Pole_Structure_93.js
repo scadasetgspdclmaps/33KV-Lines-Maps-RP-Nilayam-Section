@@ -1,0 +1,1 @@
+var json_132KVGUNROCK33KVGYMKHANA_Double_Pole_Structure_93 = {"type":"FeatureCollection","name":"132KVGUNROCK33KVGYMKHANA_Double_Pole_Structure_93","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
